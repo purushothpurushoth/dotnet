@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.exe
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.dll
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.deps.json
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\WebApplication2.pdb
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

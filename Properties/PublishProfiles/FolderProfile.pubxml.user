@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Lenovo\source\repos\WebApplication2\WebApplication2\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-08T06:04:08.4768980Z;True|2023-05-08T11:33:37.7757702+05:30;True|2023-05-08T11:29:13.6216430+05:30;True|2023-05-08T00:19:58.7827362+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Controllers/WeatherForecastController.cs">
+      <publishTime>05/07/2023 20:47:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
